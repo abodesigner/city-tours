@@ -1,0 +1,10 @@
+@import '../../index.scss';
+
+.tour{
+    background: $primaryGreen;
+    border-radius: 0.8rem;
+    margin: 1rem 0;
+    img{
+        width: 100%
+    }
+}
